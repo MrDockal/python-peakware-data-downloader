@@ -1,0 +1,415 @@
+name;elevation;latitude;longitude;continent;country;range
+Mount Everest;8850;27.9881;86.9253;Asia;Nepal/China;Central Nepal Himalaya
+K2;8612;35.8825;76.5133;Asia;Pakistan/China;Karakoram 
+Kangchenjunga;8586;27.7025;88.1483;Asia;Nepal/India;Sikkim-Eastern Nepal Himalaya
+Lhotse;8516;27.9667;86.9333;Asia;Nepal/China;Central Nepal Himalaya
+Kangchenjunga West;8505;27.705187;88.136616;Asia;Nepal;Sikkim-Eastern Nepal Himalaya
+Makalu;8462;27.889915;87.089396;Asia;Nepal/China;Central Nepal Himalaya
+Lhotse middle;8430;27.9667;86.95;Asia;China/Nepal;Central Nepal Himalaya
+Lhotse Shar;8400;27.9667;86.95;Asia;Nepal;Central Nepal Himalaya
+Cho Oyu;8201;28.094092;86.6608;Asia;Nepal;Central Nepal Himalaya
+Dhaulagiri;8167;28.7;83.5;Asia;Nepal;Western Nepal Himalaya
+Manaslu;8156;28.549959;84.559536;Asia;Nepal;Central Nepal Himalaya
+Nanga Parbat;8125;35.248668;74.591804;Asia;Pakistan;Punjab Himalaya
+Annapurna;8091;28.584823;83.989921;Asia;Nepal;Central Nepal Himalaya
+Gasherbrum;8068;35.724845;76.69826;Asia;Pakistan;Karakoram 
+Broad Peak;8047;35.8167;76.5667;Asia;Pakistan;Karakoram 
+Gasherbrum II;8035;35.757831;76.653028;Asia;Pakistan;Karakoram 
+Shisha Pangma;8013;28.35;85.7833;Asia;China;Central Nepal Himalaya
+Gyachung Kang;7952;28.1;86.75;Asia;Nepal/China;Central Nepal Himalaya
+Gasherbrum III;7952;35.759317;76.64161;Asia;Pakistan/China;Karakoram 
+Annapurna 2;7937;28.534766;84.121799;Asia;Nepal;
+Gasherbrum IV;7925;35.762359;76.615906;Asia;Pakistan/China;Karakoram 
+Bei Tip;7912;35.44;78.37;Asia;Pakistan;Karakoram 
+Distaghil Sar;7885;36.3333;75.1833;Asia;India;Karakoram 
+Ngadi Chuli;7871;28.5033;84.5675;Asia;Nepal;Central Nepal Himalaya
+Nuptse;7861;27.968479;86.883273;Asia;Nepal;Central Nepal Himalaya
+Kangbachen;7858;27.7166;88.1105;Asia;Nepal;
+Khiangyang Kish;7852;36.088159;75.121036;Asia;Pakistan;Karakoram 
+Masherbrum;7821;35.642301;76.306658;Asia;Pakistan;Karakoram 
+Chomo Lonzo;7818;27.93;87.108056;Asia;Nepal/China;Central Nepal Himalaya
+Nanda Devi;7817;30.3833;79.9667;Asia;India;Garhwal Himalaya
+Batura;7795;36.510326;74.522581;Asia;Pakistan;Karakoram 
+Rakaposhi;7788;36.142311;74.489965;Asia;Pakistan;Karakoram 
+Namche Barwa;7782;29.6667;95.1667;Asia;China;Assam Himalaya
+Batura II;7762;36.3;74.31;Asia;Pakistan;Karakoram 
+Kanjut Sar;7760;36.205;75.418333;Asia;Pakistan;Karakoram 
+Kamet;7756;30.920278;79.593611;Asia;India/China;Garhwal Himalaya
+Saltoro Kangri;7742;35.4003;76.8486;Asia;Pakistan;Karakoram 
+Kongur;7719;38.6667;75.35;Asia;China;Kunlun
+Jannu;7710;27.6828;88.0458;Asia;Nepal;Sikkim-Eastern Nepal Himalaya
+Tirich Mir;7706;36.25;71.8333;Asia;Pakistan;Hindu Kush 
+Gurla Mandhata;7694;30.2833;81.2833;Asia;China;Central Tibetan Plateau
+Gurla Mandata;7694;30.4333;81.2833;Asia;China;
+Sasir Kangri;7672;34.8667;77.75;Asia;India;Karakoram 
+Chogolisa;7665;35.613279;76.574364;Asia;Pakistan;Karakoram 
+Phola Gangchen (aka Molamenqing) (摩拉门青);7661;28.354998;85.809721;Asia;China;
+Saipal;7619;27.8333;81.0333;Asia;Nepal;Western Nepal Himalaya
+Shisper Pak;7611;36.423759;74.653398;Asia;Pakistan;
+Gongga Shan;7596;29.1333;103.333;Asia;China;West Sichuan Ranges
+Changtse;7580;28.0253;86.9142;Asia;China;Central Nepal Himalaya
+Gangkar Punsum;7570;28.03;90.27;Asia;Bhutan/China;Bhutan Himalaya
+Minya Konka;7556;29.5667;101.883;Asia;China;West Sichuan Ranges
+Muztagh Ata;7546;38.2833;75.1167;Asia;China;Kunlun
+Skyang Kangri;7545;35.9264;76.5675;Asia;China;Karakoram 
+Gangapurna;7545;28.605339;83.963475;Asia;Nepal;Central Nepal Himalaya
+Kula Kangri;7538;28.2333;90.6;Asia;Bhutan;Bhutan Himalaya
+Mamostong Kangri - I;7516;35.14083;77.5775;Asia;India;
+Pik Imeni Ismail Samani;7495;38.95;72.0167;Asia;Tajikistan;Pamir
+Noshaq;7492;36.4333;71.9;Asia;Afghanistan;Hindu Kush 
+Malubiting;7458;36.003068;74.876286;Asia;Pakistan;Karakoram 
+Pik Pobeda;7439;42.05;80.1833;Asia;Kyrgyzstan/China;Central Tien Shan
+Ganesh Himal;7429;28.391551;85.126963;Asia;Nepal/China;Central Nepal Himalaya
+Sia Kangri;7422;35.663259;76.761861;Asia;Pakistan;Karakoram 
+kunyang chhish;7410;36.205;75.2065;Asia;Pakistan/Pakistan;Karakoram 
+Haramosh Peak;7409;35.840221;74.89749;Asia;Pakistan;Karakoram 
+Haramosh Kutwal Galli;4800;35.7167;74.1667;Asia;Pakistan;Karakoram 
+Sherpi Kangri;7380;35.466542;76.782074;Asia;Pakistan;Karakoram 
+Chamlang;7319;27.775456;86.97979;Asia;Nepal;Central Nepal Himalaya
+Skil Brum;7360;35.8535;76.4217;Asia;Pakistan;
+Cho Aui (Nangpai Gosum I);7351;28.073798;86.613979;Asia;China/Nepal;Central Nepal Himalaya
+Saraghrar;7349;36;71;Asia;Pakistan;Hindu Kush 
+Kabru;7317;27.635;88.118333;Asia;Nepal/India;Sikkim-Eastern Nepal Himalaya
+Chomolhari;7314;27.8333;89.2667;Asia;Bhutan/China;Bhutan Himalaya
+Baintha Brakk;7285;35.947717;75.753822;Asia;Pakistan;Karakoram 
+K-6 Baltistan Peak;7282;35.25;76.33;Asia;Pakistan;
+Istor-o-Nal;7276;36.386944;71.889167;Asia;Pakistan;Hindu Kush 
+Muztagh Tower;7273;35.8283;76.3608;Asia;Pakistan;Karakoram 
+Diran Peak;7266;36.1167;74.6667;Asia;Pakistan;
+Baltoro Kangri;7265;76.6697;35.648;Asia;Pakistan;
+Langtang Lirung;7227;28.256111;85.519444;Asia;Nepal;Central Nepal Himalaya
+Khartaphu;7227;28.05;86.9667;Asia;China;Central Nepal Himalaya
+Baruntse;7220;27.871636;86.980043;Asia;Nepal;Central Nepal Himalaya
+Annapurna South;7219;28.518629;83.805857;Asia;Nepal;Central Nepal Himalaya
+Singhi Kangri;7207;35.599846;76.983647;Asia;Pakistan/India;Karakoram 
+Nojinkangsang;7206;28.9333;90.1667;Asia;China;
+Langtang Ri;7205;28.381389;85.683611;Asia;China/Nepal;Central Nepal Himalaya
+Menlungtse;7181;27.972004;86.432662;Asia;China;Central Nepal Himalaya
+Melungtse;7181;27.9667;86.4333;Asia;China/Nepal;
+Pumori;7161;28.015783;86.827927;Asia;Nepal;Central Nepal Himalaya
+Chaukhamba 1;7138;30.7333;79.2833;Asia;India;Garhwal Himalaya
+Nun Kun;7135;33.98077;76.020584;Asia;India;Punjab Himalaya
+Pik Lenin;7134;39.3333;72.9167;Asia;Tajikistan;Pamir
+Gauri Sankar;7134;27.9667;86.3333;Asia;China/Nepal;
+Api;7132;30;80.9333;Asia;Nepal;Western Nepal Himalaya
+Trisul;7120;30.3167;79.7833;Asia;India;Garhwal Himalaya
+Pik Korjenevskaya;7105;39.057;72.01;Asia;Tajikistan;Pamir
+Baltistan Peak;7100;35.418426;76.551631;Asia;Pakistan;
+Shachaur;7084;36.55;71.9667;Asia;Afghanistan/Pakistan;Hindu Kush 
+Loengpogang;7083;28.2;85.8;Asia;Nepal;Central Nepal Himalaya
+Kun;7077;34.012807;76.056992;Asia;India;Punjab Himalaya
+Dunagiri;7066;30.6666;79.8666;Asia;India;Garhwal Himalaya
+Nilgiri;7061;28.689528;83.744206;Asia;Nepal;Central Nepal Himalaya
+Lhakpa Ri;7045;28.037811;86.969831;Asia;China/Nepal;
+Link Sar;7041;35.42207;76.302795;Asia;Pakistan;Karakoram 
+Ratna Chuli;7035;28.85;84.3667;Asia;China/Nepal;
+Palung Ri;7013;28.1167;86.6333;Asia;China;Central Nepal Himalaya
+Khan Tengri;7010;42.2108;80.175;Asia;Kazakhstan/Kyrgyzstan;Central Tien Shan
+Machhapuchhare;7000;28.495547;83.946227;Asia;Nepal;Central Nepal Himalaya
+Sepu Kangri;6995;31.5167;94.3;Asia;China;
+Ulugh Muztagh;6987;36.4125;87.384167;Asia;China;Kunlun
+Kangguru;6979;27.730869;86.789031;Asia;Nepal;Central Nepal Himalaya
+Zanzber Kangri;6972;85.7667;34.3667;Asia;China;
+Pik Revolution;6940;38.5111;72.3542;Asia;Tajikistan;Pamir
+kedarnath;6940;30.7833;79.0667;Asia;India;Garhwal Himalaya
+Panchachuli;6904;30.22;80.42;Asia;India;Garhwal Himalaya
+Thalay Sagar;6904;30.859861;78.995849;Asia;India;Garhwal Himalaya
+Koyo Zom;6889;36.5833;73;Asia;Pakistan;Hindu Kush 
+Kanjiroba;6883;29.368114;82.778549;Asia;Nepal;Western Nepal Himalaya
+Nandakot;6861;30.2666;80.0666;Asia;India;Garhwal Himalaya
+Ama Dablam;6856;27.861111;86.861111;Asia;Nepal;Central Nepal Himalaya
+Bhagirathi;6856;30.85;79.15;Asia;India;Garhwal Himalaya
+Pik Marshal Zhukov;6842;39.3167;72.8833;Asia;Tajikistan;Pamir
+Kedarnath Dome;6831;30.7833;79.0667;Asia;India;Garhwal Himalaya
+Leo Pargial;6816;31.901935;78.74249;Asia;India/China;Punjab Himalaya
+Reo pargil;6816;31.884373;78.735624;Asia;India;
+Khangri Shar;6811;28.01956;86.816025;Asia;Nepal/China;Central Nepal Himalaya
+Maiktoli;6803;30.274486;79.877472;Asia;India;Garhwal Himalaya
+Jichu Drake;6794;27.7025;88.150278;Asia;Bhutan/China;Bhutan Himalaya
+Kangtega;6782;27.7833;86.8167;Asia;Nepal;Central Nepal Himalaya
+Pik Karl Marx;6723;37.15;72.4819;Asia;Tajikistan;Pamir
+Kailas;6714;31.0667;81.3167;Asia;China;Gangdisi Shanmai
+Cho Polu;6695;27.919167;86.981944;Asia;Nepal;
+Pandim;6691;27.5775;88.215833;Asia;India;Sikkim-Eastern Nepal Himalaya
+Panwali Dwar;6663;30.2833;79.95;Asia;India;Garhwal Himalaya
+Thamserku;6623;27.8617;86.8639;Asia;Nepal;Central Nepal Himalaya
+Nandakhat;6611;30.301667;79.975833;Asia;India;Garhwal Himalaya
+Rangrik Rang;6553;31.45;78.5167;Asia;India;Garhwal Himalaya
+Shivling;6543;30.880259;79.063324;Asia;India;Garhwal Himalaya
+Tawetse;6542;27.896667;86.7775;Asia;Nepal;Central Nepal Himalaya
+Karyolung;6511;27.733452;86.611919;Asia;Nepal;Central Nepal Himalaya
+Pik Engels;6510;37.1667;72.5222;Asia;Tajikistan;
+Kartse;6507;28.0167;87;Asia;China;Central Nepal Himalaya
+Singu Chuli;6501;28.587328;83.882963;Asia;Nepal;Central Nepal Himalaya
+Mera Peak;6476;27.709167;86.868333;Asia;Nepal;
+Cholatse;6440;27.919952;86.766071;Asia;Nepal;Central Nepal Himalaya
+Langshisha Ri;6427;28.2169;85.7136;Asia;Nepal/China;Central Nepal Himalaya
+Mramornaja Stena;6400;42.281881;80.267658;Asia;Kazakhstan/China;
+Kalanag;6387;31.0112;78.3412;Asia;India;Garhwal Himalaya
+Suitilla;6373;30.331408;80.380772;Asia;India;
+Peak Chapayev;6371;42.21145;80.17479;Asia;Kyrgyzstan;
+Kusum Kangguru;6367;27.730793;86.788816;Asia;Nepal;Central Nepal Himalaya
+Saribung;6346;28.743333;84.025556;Asia;Nepal;Central Nepal Himalaya
+Changuch;6322;30.290984;80.041051;Asia;India;Garhwal Himalaya
+Banderpunch;6316;31.003016;78.553433;Asia;India;Garhwal Himalaya
+Nanda Ghunti;6309;30.4666;79.7166;Asia;India;Garhwal Himalaya
+Great Trango Tower;6286;35.757717;76.201014;Asia;Pakistan;Karakoram 
+Amne Machin;6282;34.798333;99.4625;Asia;China;
+Mentok 1;6277;32.89555;78.2254;Asia;India;
+Mount Debachen;6265;32.212528;77.553862;Asia;India;Punjab Himalaya
+Mayer Kangri;6262;33.4667;86;Asia;China;
+Swargarohini;6252;31.1;78.5;Asia;India;Garhwal Himalaya
+Laila Peak;6200;35.591645;76.410298;Asia;Pakistan;Karakoram 
+Adi Kailash;6191;30.28529;80.651983;Asia;India;Garhwal Himalaya
+Om Parvat;6191;30.198803;81.034704;Asia;India;Garhwal Himalaya
+Mount Rubal Kang;6187;32.1044;77.6806;Asia;India;Garhwal Himalaya
+Imja Tse;6183;27.9225;86.936111;Asia;Nepal;Central Nepal Himalaya
+Island Peak;6180;27.921135;86.935897;Asia;Nepal;
+Yuzhu Feng;6178;35.6667;94.2167;Asia;China;Kunlun
+Stok Kangri;6121;33.986111;77.4425;Asia;India;
+Lobuche East;6119;27.9595;86.7899;Asia;Nepal;Central Nepal Himalaya
+Pisang Peak;6091;28.646667;84.185833;Asia;Nepal;Central Nepal Himalaya
+Chulu (Far) East;6059;28.7311;84.0851;Asia;Nepal;Central Nepal Himalaya
+Kinner Kailash;6050;31.520556;78.363611;Asia;India;
+Mitre Peak;6025;35.718039;76.503064;Asia;Pakistan;Karakoram 
+Pharilapcha;6017;27.9167;86.6667;Asia;Nepal;
+Deo Tibba;6001;32.2114;77.3972;Asia;India;
+Thapa Peak;6000;28.25;85.5833;Asia;Nepal;
+Rikigo - Rolwaling Himal;5983;27.932541;86.489868;Asia;Nepal;Sikkim-Eastern Nepal Himalaya
+Kholodnaja Stena;5947;38.6028;72.5556;Asia;Tajikistan;Pamir
+Ramdung;5925;27.813913;86.419873;Asia;Nepal;Central Nepal Himalaya
+Forgotten Peak;5889;33.110523;76.891251;Asia;India;
+Hkakabo Razi;5881;28.3167;97.4667;Asia;Myanmar/China;
+Naya Kanga;5846;28.168322;85.548541;Asia;Nepal;Central Nepal Himalaya
+Rudragaira;5819;30.81038;78.898831;Asia;India;
+Pokhalde;5794;27.9333;86.8333;Asia;Nepal;Central Nepal Himalaya
+Baden-Powell Peak;5718;28.1671;85.5325;Asia;Nepal;Central Nepal Himalaya
+Damavand;5670;35.9558;52.1086;Asia;Iran;Alborz
+Kala Pattar;5545;27.995833;86.828417;Asia;Nepal;Central Nepal Himalaya
+Karakoram Pass;5540;35.513333;77.823056;Asia;Pakistan/India;Karakoram 
+Yala Peak;5520;28.25;85.6167;Asia;Nepal;Central Nepal Himalaya
+Bogda Peak;5445;43.75;88.5333;Asia;China;Eastern Tien Shan
+Mount Kolahoi;5425;34.15;75.330278;Asia;India;
+Haba Xue Shan;5396;27.3394;100.191;Asia;China;
+Gokyo Ri;5357;27.962089;86.683214;Asia;Nepal;
+Malika Parbat;5334;34.842049;73.734199;Asia;Pakistan;
+Gumburanjo;5300;32.961686;77.257097;Asia;India;Punjab Himalaya
+Malika Parbat;5290;34.82761;73.726587;Asia;Pakistan;Karakoram 
+Gompe Utse;5240;29.7;91.0333;Asia;China;Central Tibetan Plateau
+Mount Ararat;5165;39.7;44.3;Asia;Turkey;Southeast Anatolia
+Harmukh;5148;33.7833;76.0167;Asia;India;
+Energia;5120;39.18204;68.199556;Asia;Tajikistan;Central Turkestan Ranges
+Nangkartshang Peak;5083;27.904;86.8337;Asia;Nepal;Central Nepal Himalaya
+Zamok;5070;39.216667;68.2;Asia;Tajikistan;Pamir
+Pik Talgar;5020;43.1;77.3;Asia;Kyrgyzstan;
+Myra I;4950;39.4333;73;Asia;Kyrgyzstan;Pamir
+Alam Kuh;4850;36.2239;50.5757;Asia;Iran;Alborz
+Sabalan;4811;38.266944;47.836944;Asia;Iran;Northwest Iran Ranges
+Kliuchevskoi;4750;56.0667;160.633;Asia;Russia;Kamchatka Peninsula
+Tattakuti;4741;33.89333;74.48861;Asia;India;
+Mun Peak;4650;32.287392;76.390024;Asia;India;Punjab Himalaya
+Khazret Sultan;4643;38.947394;68.172655;Asia;Uzbekistan/Tajikistan;
+Kyimoshung Ri;4620;28.214945;85.593667;Asia;Nepal;Central Nepal Himalaya
+Gora Belukha;4506;49.8067;86.5908;Asia;Kazakhstan;Altai
+Khole-no;4375;36.108201;51.588192;Asia;Iran;Alborz
+Khuiten Uul;4374;49.149167;87.825;Asia;Mongolia/China;Altai
+Mt Khuiten;4374;49.6167;106.35;Asia;Mongolia/China;
+Kyangjin;4350;28.202465;85.610447;Asia;Nepal;Central Nepal Himalaya
+Dobarar;4250;35.766154;52.230849;Asia;Iran;Alborz
+Shah Alborz;4200;36.314523;50.753262;Asia;Iran;Alborz
+Affarwat;4143;34.020048;74.337015;Asia;India/Pakistan;
+Nairamdal;4117;49.178;87.8235;Asia;Mongolia/Philippines;Altai
+Mount Kinabalu;4102;6.08333;116.55;Asia;Malaysia;Borneo
+Sutay Uul;4090;46.61768;93.594063;Asia;Mongolia;Altai
+Tavan Bogd;4082;49.145335;87.816163;Asia;Mongolia;Altai
+Pike;4065;27.5167;86.4667;Asia;Nepal;
+Changizchal;4050;35.785165;52.115021;Asia;Iran;Alborz
+Suphan Dagi;4048;38.9333;42.8333;Asia;Turkey;Southeast Anatolia
+Aktru;4045;50.0667;87.6667;Asia;Russia;
+Yushan;3997;23.4667;120.95;Asia;Taiwan;Taiwan
+Mount Albert Edward;3990;-8.5;147.333;Asia;Papua New Guinea;
+Mahadev;3966;34.152443;74.987268;Asia;India;
+Deglii Tsagaan;3965;49.70688;91.3188;Asia;Mongolia;Altai
+Touchal;3964;35.53;51.25;Asia;Iran;Alborz
+Kackar;3942;40.830956;41.154785;Asia;Turkey;
+Gangaa Peak;3940;49.6919;91.3989;Asia;Mongolia/Mongolia;
+Tsengel Khairkhan Uul;3938;48.64879;89.15755;Asia;Mongolia;Altai
+Erciyes;3917;38.5333;35.4667;Asia;Turkey;Central Anatolia
+Karkas;3890;33.45613;51.80023;Asia;Iran;Central Iranian Plateau
+Zarin kooh;3850;35.706377;52.227974;Asia;Iran;Alborz
+Mount Kerinchi;3800;-1.7;101.267;Asia;Indonesia;Sumatra
+Tharepati;3780;28.064558;85.519209;Asia;Nepal;
+Fuji-san;3776;35.3667;138.733;Asia;Japan;Honshu
+Demirkazik;3756;37.8167;35.1667;Asia;Turkey;Taurus Mountains
+Vercenik;3730;39;38;Asia;Turkey;Pontic Mountains
+Gunung Rinjani;3726;-8.43333;116.467;Asia;Indonesia;
+Mount Rinjani - Lombok;3726;-8.410225;116.458554;Asia;Indonesia;Nusa Tengarra
+Sahand;3711;37.730607;46.499462;Asia;Iran;Northwest Iran Ranges
+Bivachnaya;3700;38.924795;68.718359;Asia;Tajikistan;Central Turkestan Ranges
+Semeru;3676;-8.107618;112.922536;Asia;Indonesia;
+Phon Kan Razi;3635;27.50715;96.9354;Asia;Myanmar;
+Tatos;3633;40;32;Asia;Turkey;Pontic Mountains
+Altiparmak;3605;39;38;Asia;Turkey;Pontic Mountains
+Mount Bulut;3562;38.2;37.8;Asia;Turkey;Pontic Mountains
+Mount Güngörmez;3540;39.6667;36.7833;Asia;Turkey;Pontic Mountains
+Medetsiz;3524;37;37;Asia;Turkey;Taurus Mountains
+alvand;3450;34.2708;54.2065;Asia;Iran;Central Iranian Plateau
+Alvand;3428;34.664167;48.486667;Asia;Iran;Northwest Iran Ranges
+Karcal;3428;41.05;42;Asia;Turkey;Pontic Mountains
+Mount Slamet;3428;-7.241389;109.214444;Asia;Indonesia;Java 
+Ghezel Arsalan;3400;34.659758;48.459492;Asia;Iran;Northwest Iran Ranges
+Shaho;3390;35.03;46.25;Asia;Iran;North Central Zagros
+Mount Raung;3332;-8.125;114.041667;Asia;Indonesia;
+Kolakchal;3300;35.513;51.273;Asia;Iran;Alborz
+Palandoken;3271;39.8489;41.2842;Asia;Turkey;
+Hasandag;3268;38.1333;34.1667;Asia;Turkey;Central Anatolia
+Hasan dag;3268;38.126995;34.164734;Asia;Turkey;Central Anatolia
+Fan Si Pan;3211;22.303333;103.775;Asia;Vietnam;
+Kita Dake;3192;35.6734;138.239;Asia;Japan;Honshu
+Hotakadake;3190;36.2961;137.645;Asia;Japan;Honshu
+Yarigadake;3180;36.3428;137.648;Asia;Japan;Honshu
+Jahanbin-na;3150;31.5333;50.85;Asia;Iran;
+Mount Apo;3148;7.00833;125.276;Asia;Philippines;Minidnao
+Gunung Merbabu;3144;-7.455;110.44;Asia;Indonesia;Java 
+Arakawadake (Warusawadake);3141;35.49974;138.182173;Asia;Japan;Honshu
+Akaishidake;3120;35.465284;138.167496;Asia;Japan;Honshu
+Mount Karagöl;3107;38;37;Asia;Turkey;Pontic Mountains
+Emei Shan;3099;29.5333;103.35;Asia;China;West Sichuan Ranges
+Kizlarsivrisi;3086;37;37;Asia;Turkey;Taurus Mountains
+Qornet As Sawda;3083;34.297637;36.113647;Asia;Lebanon;Lebanon Mountains
+Deveboynu;3082;40.560667;39.689226;Asia;Turkey;Pontic Mountains
+Gunung Ciremai;3070;-6.91667;108.4;Asia;Indonesia;Malay Peninsula
+Ontake;3063;35.8833;137.483;Asia;Japan;Honshu
+Shiomi Dake;3052;35.5746;138.186;Asia;Japan;Honshu
+Gunung Agung;3048;-8.35;115.5;Asia;Indonesia;Nusa Tengarra
+Çakırgöl;3034;40.5667;29.15;Asia;Turkey;Pontic Mountains
+Senjou Dake;3033;35.7195;138.184;Asia;Japan;Honshu
+Uyluk Peak;3024;37;37;Asia;Turkey;Taurus Mountains
+Tateyama;3015;36.5759;137.619;Asia;Japan;Honshu
+Jebel Shams;3009;23.2125;57.2783;Asia;Oman;Southeast Arabia
+Dipoyraz;3007;37.38;31.19;Asia;Turkey;Taurus Mountains
+Gora Pobeda;3003;65.1833;146.033;Asia;Russia;Cherskiy Range
+Tsurugi Dake;2998;36.6204;137.62;Asia;Japan;Honshu
+Kai-Komagatake;2967;35.7581;138.237;Asia;Japan;Honshu
+Mount Gede;2958;-6.78;106.98;Asia;Indonesia;
+Shirouma Dake;2932;36.7575;137.757;Asia;Japan;Honshu
+Houkendake;2931;35.7822;137.809;Asia;Japan;Honshu
+Washiba Dake;2924;36.4116;137.591;Asia;Japan;Honshu
+Mount Pulag;2922;16.51;120.839;Asia;Philippines;Luzon
+Gunung Merapi;2911;-7.55;110.433;Asia;Indonesia;Java 
+Yatsu ga Take;2899;35.97075;138.37014;Asia;Japan;Honshu
+Kashima Yarigatake;2889;36.6238;137.747;Asia;Japan;Honshu
+Bezymianny;2882;55.975068;160.582032;Asia;Russia;South Central Zagros
+Atkuyruksallamaz;2879;36.55062;29.53758;Asia;Turkey;Taurus Mountains
+Misho;2860;37;46;Asia;Iran;Northwest Iran Ranges
+Jonen Dake;2857;36.3266;137.728;Asia;Japan;Honshu
+Houousan;2840;35.702962;138.304996;Asia;Japan;Honshu
+Ragang;2815;7.691;124.5072;Asia;Philippines;
+Mount Hermon;2814;33.4106;35.8572;Asia;Lebanon;
+Goryu Dake;2814;36.659;137.752;Asia;Japan;Honshu
+Kamikouchidake;2803;35.391429;138.15239;Asia;Japan;Honshu
+Telkamar;2800;35.731743;52.025843;Asia;Iran;Alborz
+Tsubakuro Dake (Mt. Tsubakuro);2763;36.3996;137.716;Asia;Japan;Honshu
+Mount Baekdu;2744;42.0035;128.031;Asia;Korea, North/China;Taebaek Sanmae
+Happo One and Karamatsu Dake;2696;36.6904;137.774;Asia;Japan;Honshu
+Anamudi;2695;10.1666;77.0666;Asia;India;Cardamom Hills
+Eren;2687;36.72783;29.62571;Asia;Turkey;Taurus Mountains
+Jiigatake;2670;36.5874;137.75;Asia;Japan;Honshu
+Mt. Chogatake;2664;36.29;137.725;Asia;Japan;Honshu
+Davraz;2650;37.754296;30.723962;Asia;Turkey;Taurus Mountains
+Gelincikana;2612;37;37;Asia;Turkey;Central Anatolia
+Kinpu-San;2599;35.872;138.626;Asia;Japan;Honshu
+Mount Halcon;2586;13.2625;120.995;Asia;Philippines;Visayas
+Tambuyukon;2579;6.21667;116.65;Asia;Malaysia;Borneo
+Asama Yama;2568;36.4057;138.517;Asia;Japan;Honshu
+Piduruthalagala;2524;7;80.7833;Asia;Sri Lanka;Sri Lanka
+Nathiagali;2501;34.066667;73.383333;Asia;Pakistan;
+Mayon Volcano;2463;13.2552;123.686;Asia;Philippines;Luzon
+Gunung Sinabung;2451;3.16667;98.4;Asia;Indonesia;
+Balatukan;2450;8.77;124.98;Asia;Philippines;Minidnao
+Perumal Peak;2445;10.300278;77.565833;Asia;India;
+Gunung Mulu;2376;4.045377;114.928678;Asia;Malaysia;
+Tsetsee Gun Uul;2258;47.700173;106.920061;Asia;Mongolia;
+Adam's Peak;2243;6.81139;80.4997;Asia;Sri Lanka;Sri Lanka
+Mizugaki Yama;2230;35.8936;138.592;Asia;Japan;Honshu
+Awiar;2221;35.3167;47;Asia;Iran;
+SALAK I;2211;-6.71542;106.734;Asia;Indonesia;
+Gunung Tahan;2187;4.6325;102.234167;Asia;Malaysia;
+Gunung Korbu;2183;4.68333;101.3;Asia;Malaysia;
+Çal;2182;36.86618;29.12078;Asia;Turkey;
+Gunung Yong Belar;2181;4.743413;101.340637;Asia;Malaysia;Malay Peninsula
+Gunung Gayong;2173;4.760776;101.37351;Asia;Malaysia;Malay Peninsula
+Gunung Chamah;2171;5.134334;101.342441;Asia;Malaysia;Malay Peninsula
+Mt. Toyangan;2170;16.569444;120.738056;Asia;Philippines;
+Hua Shan;2160;34.29;110.05;Asia;China;
+Mt. Ugo;2150;16.318;120.801;Asia;Philippines;Luzon
+Mount Batu Puteh;2132;4.222048;101.441402;Asia;Malaysia;
+Madja-as Mountain;2117;11.389083;122.162132;Asia;Philippines;Visayas
+Qbatta;2085;11.22285;91.386239;Asia;Thailand;Adirondacks
+Mt. Banahaw;2000;14.066667;121.483333;Asia;Philippines;
+Baba Dagi;1989;36.52842;29.185196;Asia;Turkey;Taurus Mountains
+Mt. Isarog;1966;13.6667;123.383;Asia;Philippines;Luzon
+Hallasan;1950;33.361667;126.529167;Asia;Korea, South;
+Mt. Guiting-guiting;2058;12.4134;122.568;Asia;Philippines;
+Mount Talinis;1903;9.242761;123.17625;Asia;Philippines;
+Mount Mandalagan;1884;10.636969;123.2361;Asia;Philippines;
+Marapara Daku Peak;1873;10.637351;123.195799;Asia;Philippines;
+Jabal Umm ad Dami;1854;29.308333;35.429167;Asia;Jordan;
+Lady Finger;1829;36;74;Asia;Pakistan/China;Karakoram 
+Jebel Qihwi;1794;26.2333;56.35;Asia;Oman;
+Peak 19th Party Conference;1794;39.3833;72.9667;Asia;Kyrgyzstan;Pamir
+Mount Guinsayawan;1788;9.338494;123.148764;Asia;Philippines;
+Yagumyum Peak;1700;9.256968;123.190134;Asia;Philippines;
+Acho;1684;36.227;53.1633;Asia;Iran;Alborz
+Marapara Peak;1683;10.6655;123.17914;Asia;Philippines;
+Kalsubai;1646;19.35;73.42;Asia;India;
+Mount Aso;1592;32.8844;131.1039;Asia;Japan;Kyushu
+Marapara West Peak;1565;10.663331;123.1758;Asia;Philippines;
+Mt. Malinao;1548;13.4667;123.6;Asia;Philippines;Luzon
+Sicaba Diotay Peak;1536;10.770094;123.233243;Asia;Philippines;
+Pik Petrovski;1497;39.458349;72.884038;Asia;Kyrgyzstan;
+Marapara South Peak;1490;10.660758;123.17859;Asia;Philippines;
+Mount Pinatubo;1486;15.1422;120.349;Asia;Philippines;Luzon
+Dinamlagan Peak;1475;10.782744;123.221768;Asia;Philippines;
+Takhte Soleyman;1463;36.604297;47.234859;Asia;Iran;Alborz
+Myra Ii;1448;39.4333;73.0333;Asia;Kyrgyzstan;Pamir
+Makawili Peak;1412;10.672145;123.160007;Asia;Philippines;
+Sicaba Dacu Peak;1379;10.799443;123.24073;Asia;Philippines;
+Calaptan Peak;1348;10.764448;123.201807;Asia;Philippines;
+Mount Masaraga;1328;13.32;123.6;Asia;Philippines;Luzon
+Gawahon Peak;1310;10.778463;123.209567;Asia;Philippines;
+Tarak Ridge;1288;14.5058;120.492;Asia;Philippines;Luzon
+Gunung Ledang;1276;2.33333;102.667;Asia;Malaysia;
+Jugghar;1264;43.5794;87.6036;Asia;Afghanistan;
+Tingtingon Diotay Peak;1230;10.741807;123.229659;Asia;Philippines;
+Har Meron;1208;32.99945;35.411682;Asia;Israel;
+Tingtingon Daku Peak;1185;10.742988;123.220046;Asia;Philippines;
+Dalayapan Peak;1145;10.814867;123.224037;Asia;Philippines;
+Mt. Asog;1143;13.4511;123.451;Asia;Philippines;Luzon
+Myogi San;1104;36.3005;138.75;Asia;Japan;Honshu
+Lantawan Peak;1049;10.83254;123.235533;Asia;Philippines;
+Neelab Hill;1048;33.719699;72.16198;Asia;Pakistan;
+Gunung Parang;963;-6.601492;107.337912;Asia;Indonesia;
+Mount Madoriama;914;36.2561;137.825;Asia;Japan;
+Mount Banoi;830;13.6882;121.178;Asia;Philippines;Luzon
+Gunung Angsi;825;2.75;102.167;Asia;Malaysia;
+Mount Batulao;813;14.0399;120.802;Asia;Philippines;Luzon
+Gunung Santubong;810;1.7333;110.333;Asia;Malaysia;Borneo
+Mount Sembrano;786;14.3871;121.364;Asia;Philippines;Luzon
+Mount Agdalusan;770;11.103097;122.370665;Asia;Philippines;
+Mount Talamitan;704;14.1078;120.76;Asia;Philippines;Luzon
+Mount Kalisungan;686;14.1465;121.345;Asia;Philippines;Luzon
+Pico de Loro;664;14.2167;120.65;Asia;Philippines;Luzon
+Victoria Peak;552;22.25;114.167;Asia;China;
+Mount Carmel;546;32.733333;35.05;Asia;Israel;Sinai-Palestine Ranges
+Manaphag;530;11.278824;123.167515;Asia;Philippines;
+Bilar Peak;510;9.712413;124.136972;Asia;Philippines;
+Masada;460;31.31639;35.35383;Asia;Israel;
+Kim Phung;427;16.390305;107.535521;Asia;Vietnam;Annamese Cordillera
+Hamugnaw Peak;230;11.042576;122.706349;Asia;Philippines;
+Bukit Batu Bujang Pahang;70;4.04647;114.872;Asia;Brunei;
+Mount Rinjani;4;-8.41667;116.467;Asia;Indonesia;Central Southeast Asia
+Mt. Canlaon;2450;10.98;123.95;Asia;Philippines;
+Mount Nangtud;2;11.268;122.208;Asia;Philippines;
+Mount Baloy;2;11.1406;122.235;Asia;Philippines;
+Mount Madias;2;11.3963;122.178;Asia;Philippines;
