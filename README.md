@@ -1,9 +1,14 @@
 # Peakware Data Downloader
+
 **Author: Alexandre Louisnard alouisnard@gmail.com**  
+**Python script**  
 **2017** 
 
 ## DESCRIPTION
-Python script.
-
 Getting, parsing and saving (in csv format) data from https://www.peakware.com.  
 
+## USAGE
+
+## CHANGELOG
+
+## BACKLOG
