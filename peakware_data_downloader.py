@@ -17,14 +17,14 @@ codecs.register_error("strict", codecs.ignore_errors)
 listUrl = "https://www.peakware.com/peaks.php?choice=SoE"
 outputFile = "peakware.csv"
 
-print("GETTING: {}".format(listUrl))
+print(f"GETTING: {listUrl}")
 
 listPage = urllib.request.urlopen(listUrl).read().decode('utf-8', 'ignore')
 
 # (link, name, altitude)
 matchLinks = re.findall(r"""\<li\>\<a\ href\=\"(peaks\.php\?pk\=[0-9]+)\"\>(.*)\<\/a\>\ \(.*\)\<br\/\>[0-9]+\ ft\/([0-9]+)\ m\<\/li\>""", listPage)
 
-print("Found {} summits\n".format(len(matchLinks)))
+print(f"Found {len(matchLinks)} summits\n")
 sys.stdout.flush()
 
 f = codecs.open(outputFile,"w",encoding='utf8')
@@ -36,7 +36,7 @@ err = 0;
 
 for link in matchLinks:
 	if link[0]:
-		print("GETTING: {}\tAT: {}".format(link[1], link[0]))
+		print(f"GETTING: {link[1]}\tAT: {link[0]}")
 		sys.stdout.flush()
 		summitPage = urllib.request.urlopen("https://www.peakware.com/" + link[0]).read().decode('utf-8', 'ignore')
 		matchName = re.findall(r"""\<h1\>(.+)\<\/h1\>""", summitPage)
@@ -62,5 +62,5 @@ for link in matchLinks:
 		err +=1
 	sys.stdout.flush()
 
-print("\n\nRecords: {}\nErrors: {}\n".format(rec, err))
+print(f"\n\nRecords: {rec}\nErrors: {err}\n")
 
